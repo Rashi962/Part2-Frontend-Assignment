@@ -1,0 +1,1 @@
+let yourArray = ["string", 555, true, 312, false]; // Change this line
